@@ -1,5 +1,1 @@
-- Hi, I’m Ricardo Caratti
-- I’m interested in Computational Thinking and maker moviment
-- I am a researcher in the field of educational technology at the Federal University of Ceará.
-- I’m currently learning how to teach people to solve problems using Computational Thinking approach.
-- How teachers understand Computational Thinking is the main topic of my research.
+Hello, my name is Ricardo Caratti, and my academic and professional journey revolves around the intriguing fields of Computational Thinking and the maker movement. Currently, I am dedicated to research in educational technology at the Federal University of Ceará. My focus is on learning and developing methods to teach individuals how to effectively solve problems using a Computational Thinking approach. The crux of my research delves into understanding how educators perceive and integrate Computational Thinking into their teaching methodologies. This exploration is fundamental to my goal of enhancing problem-solving skills through educational technology.
